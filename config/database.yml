@@ -1,0 +1,10 @@
+development:
+  database: Zen_test_new
+  adapter: postgresql
+  encoding: utf-8
+  username: postgres
+  password: 12345678
+  pool: 5
+  port: 5432
+  timeout: 5000
+
